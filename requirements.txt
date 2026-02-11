@@ -1,0 +1,16 @@
+# --- Web Scraping & HTTP ---
+requests
+beautifulsoup4
+
+# --- AI & LLM Core ---
+ollama
+langchain-core
+langchain-community
+
+# --- Vector Database (Memory) ---
+faiss-cpu
+
+# --- API & Backend (Sprint 4) ---
+fastapi
+uvicorn
+pydantic
