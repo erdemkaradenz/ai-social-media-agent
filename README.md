@@ -40,12 +40,6 @@ An end-to-end **Generative AI application** that automates the creation of profe
 
 ---
 
-## 📸 Screenshots
-
-*(You can add your screenshots here)*
-
----
-
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
